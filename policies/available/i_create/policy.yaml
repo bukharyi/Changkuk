@@ -1,0 +1,6 @@
+trigger: image_create
+uriargs: fromimage
+cmd: blockpublicregdwld.sh          #use build in authz to do action. lala
+onerrorallow: false
+metadata: blockpullimage
+desc: prevent image pull from public repository. Only private repository is allowed. 

@@ -1,0 +1,3 @@
+trigger: container_start
+uriargs: resourceid
+cmd: return0.sh          #use build in authz to do action.

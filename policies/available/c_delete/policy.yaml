@@ -1,0 +1,5 @@
+trigger: container_delete
+uriargs: resourceid,force 
+cmd: main.sh          #use build in authz to do action. lala
+onerrorallow: true 
+desc: backup container on force deletion

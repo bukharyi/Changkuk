@@ -1,0 +1,12 @@
+{
+	"fired":"10",
+	"inmemory":{
+			"policies":"1",
+			"allow":"1",
+			"deny":"2",
+			
+		},
+	"error":"5",
+	"lastupdated":"2016-07-12:00:00:00"
+}
+	

@@ -1,0 +1,5 @@
+trigger: docker_auth
+cmd: block.sh          #use build in authz to do action. lala
+onerrorallow: true 
+metadata: blocker
+desc: block

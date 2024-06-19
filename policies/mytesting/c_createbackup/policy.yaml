@@ -1,0 +1,6 @@
+trigger: container_create
+args: image,privileged,volumes,binds
+cmd: main.sh          #use build in authz to do action. lala
+onerrorallow: false
+metadata: whitelist,privileged
+desc: check the container request 

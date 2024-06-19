@@ -1,0 +1,7 @@
+#PRE container_create : prevent unauthorized image except listed on listOfImages
+#name: container_start 
+#type: dockeraction
+#trigger: container_start
+trigger: container_logs
+uriargs: since,stderr,resourceid
+cmd: return0.sh          #use build in authz to do action.

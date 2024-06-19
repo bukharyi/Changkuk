@@ -1,0 +1,1 @@
+docker run -itd -p 8080:8080 -u=root --name MYCONTAINERNAME -v /opt:/opt --env MYENV1=ENV1 --env MYENV2=env2 --label MYLABEL1=LABEL1 --label MYLABEL2=LABEL2 -p 666:666 --net=bridge --restart=always --add-host=MYHOST:6.6.6.6 --privileged cirros /bin/sh

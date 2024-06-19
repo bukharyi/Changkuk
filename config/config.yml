@@ -1,0 +1,8 @@
+scripttimeout: 2
+debugmode: true
+changkukfolder: "/root/GolangProjects/src/github.com/bukharyi/policy2/"
+scanpolicyinterval: 5
+integrity: true
+#loglocation
+#logrotation
+

@@ -1,0 +1,182 @@
+Tue Aug  9 03:12:43 EDT 2016:- haproxy true 
+---allow:false,msg:IMAGE=haproxy PASS | PRIVILEGE=true DENIED
+Tue Aug  9 22:09:10 EDT 2016:- haproxy false 
+---allow:true,msg:IMAGE=haproxy PASS | PRIVILEGE=false PASS
+Tue Aug  9 22:43:13 EDT 2016:- lala false 
+---allow:false,msg:IMAGE=lala DENIED | PRIVILEGE=false PASS
+Tue Aug  9 22:43:33 EDT 2016:- alpine false 
+---allow:false,msg:IMAGE=alpine DENIED | PRIVILEGE=false PASS
+Tue Aug  9 22:43:54 EDT 2016:- haproxy false 
+---allow:true,msg:IMAGE=haproxy PASS | PRIVILEGE=false PASS
+Tue Aug  9 22:44:02 EDT 2016:- haproxy true 
+---allow:false,msg:IMAGE=haproxy PASS | PRIVILEGE=true DENIED
+Wed Aug 10 03:30:38 EDT 2016:- cirros false 
+---allow:true,msg:IMAGE=cirros PASS | PRIVILEGE=false PASS
+Wed Aug 10 03:31:58 EDT 2016:- cirros false 
+---allow:true,msg:IMAGE=cirros PASS | PRIVILEGE=false PASS
+Tue Aug 16 10:18:16 EDT 2016:- haproxy false 
+---allow:true,msg:IMAGE=haproxy PASS | PRIVILEGE=false PASS
+Tue Aug 16 10:18:24 EDT 2016:- lala false 
+---allow:false,msg:IMAGE=lala DENIED | PRIVILEGE=false PASS
+Tue Aug 16 10:18:37 EDT 2016:- haproxy true 
+---allow:true,msg:IMAGE=haproxy PASS | PRIVILEGE=true DENIED
+Tue Aug 16 10:19:02 EDT 2016:- haproxy true 
+---allow:false,msg:IMAGE=haproxy PASS | PRIVILEGE=true DENIED
+Tue Aug 16 11:15:36 EDT 2016:- haproxy false 
+---allow:true,msg:IMAGE=haproxy PASS | PRIVILEGE=false PASS
+Tue Aug 16 11:15:40 EDT 2016:- ubuntu false 
+---allow:false,msg:IMAGE=ubuntu DENIED | PRIVILEGE=false PASS
+Mon Aug 29 22:11:05 EDT 2016:- haproxy false 
+---allow:true,msg:IMAGE=haproxy PASS | PRIVILEGE=false PASS
+Mon Aug 29 22:15:51 EDT 2016:- haproxy false 
+---allow:true,msg:IMAGE=haproxy PASS | PRIVILEGE=false PASS
+Mon Aug 29 22:16:03 EDT 2016:- haproxy false 
+---allow:true,msg:IMAGE=haproxy PASS | PRIVILEGE=false PASS
+Mon Aug 29 22:16:09 EDT 2016:- haproxy false 
+---allow:true,msg:IMAGE=haproxy PASS | PRIVILEGE=false PASS
+Mon Aug 29 22:17:22 EDT 2016:- haproxy false 
+---allow:true,msg:IMAGE=haproxy PASS | PRIVILEGE=false PASS
+Mon Aug 29 22:48:47 EDT 2016:- haproxy false 
+---allow:true,msg:IMAGE=haproxy PASS | PRIVILEGE=false PASS
+Mon Aug 29 22:53:09 EDT 2016:- haproxy false 
+---allow:true,msg:IMAGE=haproxy PASS | PRIVILEGE=false PASS
+Tue Aug 30 01:46:47 EDT 2016:- mysql false 
+Tue Aug 30 01:46:47 EDT 2016:- mysql false 
+Tue Aug 30 01:46:47 EDT 2016:- mysql false 
+Tue Aug 30 01:46:47 EDT 2016:- mysql false 
+Tue Aug 30 01:46:47 EDT 2016:- mysql false 
+---allow:false,msg:IMAGE=mysql DENIED | PRIVILEGE=false PASS
+Tue Aug 30 01:46:47 EDT 2016:- mysql false 
+---allow:false,msg:IMAGE=mysql DENIED | PRIVILEGE=false PASS
+---allow:false,msg:IMAGE=mysql DENIED | PRIVILEGE=false PASS
+---allow:false,msg:IMAGE=mysql DENIED | PRIVILEGE=false PASS
+Tue Aug 30 01:46:47 EDT 2016:- mysql false 
+---allow:false,msg:IMAGE=mysql DENIED | PRIVILEGE=false PASS
+Tue Aug 30 01:46:47 EDT 2016:- mysql false 
+Tue Aug 30 01:46:47 EDT 2016:- mysql false 
+---allow:false,msg:IMAGE=mysql DENIED | PRIVILEGE=false PASS
+Tue Aug 30 01:46:47 EDT 2016:- mysql false 
+---allow:false,msg:IMAGE=mysql DENIED | PRIVILEGE=false PASS
+---allow:false,msg:IMAGE=mysql DENIED | PRIVILEGE=false PASS
+---allow:false,msg:IMAGE=mysql DENIED | PRIVILEGE=false PASS
+---allow:false,msg:IMAGE=mysql DENIED | PRIVILEGE=false PASS
+Tue Aug 30 02:59:00 EDT 2016:- mysql false 
+---allow:false,msg:IMAGE=mysql DENIED | PRIVILEGE=false PASS
+Tue Aug 30 03:06:53 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:07:00 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:07:04 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:07:05 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:07:06 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:07:07 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:07:08 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:07:09 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:07:10 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:07:11 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:07:12 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:07:13 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:10:01 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:10:06 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:10:07 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:10:08 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:10:09 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:10:10 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:10:11 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:10:12 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:10:12 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:10:13 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:10:14 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:11:00 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:11:05 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:11:06 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:11:08 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:11:10 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:11:12 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:11:13 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:11:15 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:11:17 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:11:18 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:11:20 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:14:32 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:14:36 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:14:38 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:14:40 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:14:41 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:14:43 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:14:45 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:14:47 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:14:48 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:14:50 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 03:14:52 EDT 2016:- mysql false 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Tue Aug 30 05:18:59 EDT 2016:- 10.1.70.70:443/ubuntu false 
+---allow:false,msg:IMAGE=10.1.70.70:443/ubuntu DENIED | PRIVILEGE=false PASS
+Tue Aug 30 05:19:42 EDT 2016:- 10.1.70.70:443/ubuntu false 
+---allow:true,msg:IMAGE=10.1.70.70:443/ubuntu PASS | PRIVILEGE=false PASS
+Tue Aug 30 05:19:55 EDT 2016:- 10.1.70.70:443/ubuntu false 
+---allow:true,msg:IMAGE=10.1.70.70:443/ubuntu PASS | PRIVILEGE=false PASS
+Tue Aug 30 05:20:01 EDT 2016:- 10.1.70.70:443/ubuntu false 
+---allow:true,msg:IMAGE=10.1.70.70:443/ubuntu PASS | PRIVILEGE=false PASS
+Tue Aug 30 05:21:19 EDT 2016:- 10.1.70.70:443/ubuntu false 
+---allow:true,msg:IMAGE=10.1.70.70:443/ubuntu PASS | PRIVILEGE=false PASS
+Tue Aug 30 05:23:40 EDT 2016:- 10.1.70.70:443/ubuntu false [/etc:/insidecontainer] 
+---allow:true,msg:IMAGE=10.1.70.70:443/ubuntu PASS | PRIVILEGE=false PASS
+Tue Aug 30 05:24:25 EDT 2016:- 10.1.70.70:443/ubuntu false map[] [/etc:/insidecontainer] 
+---allow:true,msg:IMAGE=10.1.70.70:443/ubuntu PASS | PRIVILEGE=false PASS
+Tue Aug 30 05:28:36 EDT 2016:- 10.1.70.70:443/ubuntu false map[] [/etc:/insidecontainer /root:/insidecontainerroot] 
+---allow:true,msg:IMAGE=10.1.70.70:443/ubuntu PASS | PRIVILEGE=false PASS
+Tue Aug 30 05:28:42 EDT 2016:- 10.1.70.70:443/ubuntu false map[] [/root:/insidecontainerroot /etc:/insidecontainer] 
+---allow:true,msg:IMAGE=10.1.70.70:443/ubuntu PASS | PRIVILEGE=false PASS
+Wed Aug 31 21:47:42 EDT 2016:- ubuntu false map[] <nil> 
+---allow:false,msg:IMAGE=ubuntu DENIED | PRIVILEGE=false PASS
+Wed Aug 31 21:48:19 EDT 2016:- mysql false map[] [/etc/:/opt] 
+---allow:true,msg:IMAGE=mysql PASS | PRIVILEGE=false PASS
+Wed Aug 31 21:48:59 EDT 2016:- 10.1.70.70:443/ubuntu false map[] [/etc/:/opt] 
+---allow:true,msg:IMAGE=10.1.70.70:443/ubuntu PASS | PRIVILEGE=false PASS
+Wed Aug 31 21:49:26 EDT 2016:- 10.1.70.70:443/ubuntu false map[] [/etc/:/opt /root:/root] 
+---allow:true,msg:IMAGE=10.1.70.70:443/ubuntu PASS | PRIVILEGE=false PASS
+Wed Aug 31 21:50:21 EDT 2016:- 10.1.70.70:443/ubuntu false map[] [/etc/:/opt /root:/root] 
+---allow:true,msg:IMAGE=10.1.70.70:443/ubuntu PASS | PRIVILEGE=false PASS

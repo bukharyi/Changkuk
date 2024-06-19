@@ -1,0 +1,2 @@
+trigger: image_list
+cmd: return.sh           #use build in authz to do action

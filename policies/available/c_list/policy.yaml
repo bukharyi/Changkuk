@@ -1,0 +1,6 @@
+trigger: container_list
+cmd: return.sh           #use build in authz to do action
+uriargs: all
+onerrorallow: true
+metadata: listing
+desc: list containers 
